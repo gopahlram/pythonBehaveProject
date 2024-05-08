@@ -43,7 +43,7 @@
 
         behave -f allure_behave.formatter:AllureFormatter -o Reports/ features --tags=profile_submission --no-capture
 
-        allure server Reports
+        allure serve Reports
         
  ** Built with **
 
