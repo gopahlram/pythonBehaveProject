@@ -1,14 +1,18 @@
 ** Behave BDD Automation Framework **
+ 
   BDD framework built using Python language with behave to support web application automation on various browsers.
   
   ** What are all implemented in Framework **
+   
     1. Page Object Design Pattern.
     2. Behave BDD feature and step definition to design scenario.
-    3. Utility functions to handle Driver methods, Fetching test data and handle OS methods.
+    3. Utility functions to handle Driver methods, Fetch test data and handle OS methods.
     4. Allure reports for test execution details.
 
 **Getting Started: **
+   
     ** Prerequisites **
+      
       Python version > 3
       
 ** Setup using Pycharm IDE **
